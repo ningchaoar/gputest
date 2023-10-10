@@ -1,0 +1,8 @@
+ckpts
+*.txt
+*.log
+*.bin
+*.safetensors
+*.whl
+*.pyc
+*.so
